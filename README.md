@@ -53,6 +53,7 @@
 
 
 ## Output:
+![image](https://github.com/Vinishofficial/Ex.-No.-1.-SIMULATION-ANALYSIS-ON-FOUR-BAR-CHAIN-MECHANISM/assets/146931793/6c0be0a3-ca0f-43fa-a43c-992d26c1aea6)
 
 
 ### Name:
